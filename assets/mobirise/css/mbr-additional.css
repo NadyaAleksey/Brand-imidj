@@ -743,6 +743,44 @@ a {
     padding: 1rem;
   }
 }
+.cid-soqIVfytus {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-soqIVfytus .media-container-row {
+  justify-content: space-between;
+}
+.cid-soqIVfytus .text-content {
+  max-width: 50%;
+}
+.cid-soqIVfytus .mbr-iconfont-social {
+  margin: 0.5rem;
+  font-size: 32px;
+  display: flex;
+  border-radius: 50%;
+  text-align: center;
+  color: #6592e6;
+  border: 2px solid #6592e6;
+  justify-content: center;
+  align-content: center;
+  transition: all 0.3s;
+}
+.cid-soqIVfytus .mbr-iconfont-social:before {
+  padding: 0.6rem;
+}
+.cid-soqIVfytus .mbr-iconfont-social:hover {
+  background-color: #6592e6;
+  color: #ffffff;
+}
+@media (max-width: 768px) {
+  .cid-soqIVfytus .icons {
+    justify-content: center !important;
+  }
+  .cid-soqIVfytus .text-content * {
+    text-align: center;
+  }
+}
 .cid-snMckFDTJF {
   padding-top: 6rem;
   padding-bottom: 6rem;
